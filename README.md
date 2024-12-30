@@ -1,7 +1,5 @@
 # Creditcard_FraudDetection
 
-# Fraud Detection using Supervised Learning
-
 ## Objective
 This notebook demonstrates a supervised approach to detecting fraudulent transactions using the Kaggle Credit Card Fraud Detection dataset. It implements data preprocessing, model training, evaluation.
 
